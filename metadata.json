@@ -1,0 +1,8 @@
+{
+  "name": "IT Academy Khmer | វិទ្យាស្ថានបច្ចេកវិទ្យាព័ត៌មានវិទ្យាខ្មែរ",
+  "description": "Premier Computer Training Center in Cambodia offering practical courses in Basic Office, Graphic Design, Web Development, IT Support, and Video Editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
